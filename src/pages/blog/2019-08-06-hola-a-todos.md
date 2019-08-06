@@ -6,12 +6,7 @@ description: Comunicación
 featuredpost: true
 featuredimage: /img/campaña-de-esterilización1.png
 tags:
-  - >-
-    Enlaces externos  Wikiquote alberga frases célebres de o sobre Como perros y
-    gatos. Como perros y gatos en Internet Movie Database (en inglés) Como
-    perros y gatos en AllMovie (en inglés) Como perros y gatos en Box Office
-    Mojo (en inglés). Como perros y gatos en Rotten Tomatoes (en inglés) Como
-    perros y gatos en Metacritic (en inglés).
+  - ''
 ---
 Como perros y gatos es una película de aventura familiar de 2001, dirigida por Lawrence Guterman. Protagonizada por Jeff Goldblum, Elizabeth Perkins, Miriam Margoyles y con las voces de Tobey Maguire (Lou), Alec Baldwin (Butch) y Sean Hayes (Señor Tinkles).
 
